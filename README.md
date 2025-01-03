@@ -12,18 +12,18 @@ This repository contains a collection of APIs for interacting with the Raiden MD
 The following APIs are currently available:
 
 *1. AI API*
-- *Endpoint:* `/api/payments`
-- *Description:* Initiate and manage payments on the Raiden Network.
+- *Endpoint:* `/api/ai`
+- *Description:* Interaction with AI to generate responses and tasks.
 - *Methods:* `POST`, `GET`, `PATCH`
 
 *2. Search API*
-- *Endpoint:* `/api/channels`
-- *Description:* Create, update, and manage payment channels.
+- *Endpoint:* `/api/search`
+- *Description:* Search Anything from the Www.
 - *Methods:* `POST`, `GET`, `PATCH`, `DELETE`
 
-*3. Token API*
-- *Endpoint:* `/api/tokens`
-- *Description:* Interact with tokens on the Raiden Network.
+*3. Download API*
+- *Endpoint:* `/api/download`
+- *Description:* Download media from popular social Media platforms.
 - *Methods:* `GET`
 
 ### Getting Started
